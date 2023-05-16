@@ -1,5 +1,6 @@
 {
   "name": "movie-mania",
+  "homepage": "https://your-github-username.github.io/your-repo-name",
   "private": true,
   "version": "0.0.0",
   "type": "module",
